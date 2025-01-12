@@ -1,0 +1,11 @@
+.user-welcome {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.user-welcome .text {
+    color: #fff;
+}
